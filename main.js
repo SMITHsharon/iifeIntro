@@ -47,6 +47,7 @@ var global_base = 500;
 })();
 
 //******* This :: is same as this ^^
+// CALLAN SAYS THIS IS WEIRD
 !function throwAway(){
 	global_base+=500;
 	console.log(global_base); // 1000
