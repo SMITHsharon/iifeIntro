@@ -36,6 +36,7 @@ throwAway(); // the ()s invoke (call) the function
 				// enclose the whole function in ()s [DECLARES THE FUNCTION]
 
 // IIFE immediately invokes function expression
+// immediately-invoked function expression
 
 // function declaration
 
