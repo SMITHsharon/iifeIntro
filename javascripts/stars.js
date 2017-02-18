@@ -7,7 +7,7 @@ var SolarSystem = (function(oldSolarSystem){
 		return stars;
 	};
 
-	oldSolarSystem.setStars = function(){
+	oldSolarSystem.setStars = function(newStar){
 		stars.push(newStar);
 	};
 

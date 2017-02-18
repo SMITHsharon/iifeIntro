@@ -1,4 +1,4 @@
-var SolarSystem = function(oldSolarySystem){
+var SolarSystem = (function(oldSolarSystem){
 
 	var planets = ["mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune"];
 	var numPlanetsPeopleLandedOn = 0;
