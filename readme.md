@@ -34,7 +34,6 @@ The various `JavaScript` files underwent many changes throughout the class discu
 ```
 git clone https://github.com/SMITHsharon/iifeIntro.git
 cd iifeIntro
-npm install http-server -g
 http-server -p 8080
 ```
 
